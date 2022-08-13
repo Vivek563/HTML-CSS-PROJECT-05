@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 5
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -7,7 +7,7 @@
 
 ![name](https://img.shields.io/badge/Vivek--Maurya-MCA--First--Year-orange)
 
-## Project 2 [Live Link](https://vivek-html-css-project05.netlify.app/)
+## Project 5 [Live Link](https://vivek-html-css-project05.netlify.app/)
  <br>
 
 ## Time taken to finish this project
